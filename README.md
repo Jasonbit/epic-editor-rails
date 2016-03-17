@@ -1,5 +1,8 @@
-epic-editor-rails v0.2.4
+epic-editor-rails v0.2.4.1
 =================
+
+** I'm trying to get this to run on Rails 5 **
+
 Gemfile: ```gem 'epic-editor-rails'```  
 Install: ```$ bundle install  ```
 
